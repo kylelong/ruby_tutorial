@@ -1,1 +1,2 @@
 ruby -e 'puts 123'
+https://www.w3resource.com/ruby-exercises/
