@@ -1,2 +1,5 @@
 a = [1,2,3,3]
-puts a.uniq
+prints a.uniq #removes duplicates
+a.each do |i|
+    puts i
+end
