@@ -1,0 +1,3 @@
+def rubyBlanks(msg)
+
+end
