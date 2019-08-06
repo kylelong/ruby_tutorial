@@ -1,4 +1,3 @@
-require_relative 'dice'
 class DiceSet
     attr_accessor :dice_one, :dice_two
     def initialize
@@ -6,7 +5,7 @@ class DiceSet
         @dice_two = Dice.new
     end
     def display
-        "[#{@dice_one.value}] - [#{@dice_two.value}]"
+        "[ #{@dice_one.value} ] - [ #{@dice_two.value} ]"
     end
     def roll
         @dice_one.roll

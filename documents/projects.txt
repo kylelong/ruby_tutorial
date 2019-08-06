@@ -1,6 +1,5 @@
 Ruby Projects
 -------------
-
 1. Bucket List
 2. Goal Checker
 3. Something using an API
